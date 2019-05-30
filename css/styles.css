@@ -5,6 +5,51 @@
   margin-right: auto;
 }
 
-.jumbotron p, h1{
+.jumbotron {
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+
+body {
+  font-family: 'Poiret One', cursive;
+  font-weight: 300;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+/* .delights {
+  max-width: 300px;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border: 2px;
+
+}
+
+.taste {
+  max-width: 300px;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border: 2px;
+}
+
+.culture {
+  max-width: 300px;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border: 2px;
+}
+
+.essential {
+  max-width: 300px;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+  border: 2px;
+} */
+
+h2 {
   text-align: center;
 }
