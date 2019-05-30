@@ -17,38 +17,15 @@ body {
   letter-spacing: 3px;
 }
 
-/* .delights {
-  max-width: 300px;
-  float: left;
-  padding: 5px;
-  margin: 5px;
-  border: 2px;
-
+h2  {
+  font-weight: bold;
 }
 
-.taste {
-  max-width: 300px;
-  float: left;
-  padding: 5px;
-  margin: 5px;
-  border: 2px;
+.bold{
+  font-weight: 800;
+  color: teal;
 }
 
-.culture {
-  max-width: 300px;
-  float: left;
-  padding: 5px;
-  margin: 5px;
-  border: 2px;
-}
-
-.essential {
-  max-width: 300px;
-  float: left;
-  padding: 5px;
-  margin: 5px;
-  border: 2px;
-} */
 
 h2 {
   text-align: center;
