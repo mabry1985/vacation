@@ -1,0 +1,10 @@
+.imgheader {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jumbotron p, h1{
+  text-align: center;
+}
